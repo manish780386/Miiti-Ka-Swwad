@@ -16,7 +16,8 @@
 </div>
 
 ---
-![Uploading image.png…]()
+<img width="1885" height="875" alt="image" src="https://github.com/user-attachments/assets/10d32b35-458d-4856-9de9-03923b0d3e4f" />
+
 
 
 ## 📖 About the Project
