@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # .
 
 Created with **krito** - A modern full-stack scaffolding tool.
@@ -25,3 +26,6 @@ Your app will be available at http://localhost:5173
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
+=======
+# Miiti-Ka-Swwad
+>>>>>>> 5f9e10460fd8c69af5e62abaa9ed63618dd3aaaf
