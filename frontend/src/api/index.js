@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE = import.meta.env.REACT_APP_API_URL || "http://localhost:8000/api";
+const BASE = import.meta.env.REACT_APP_API_URL || "https://miiti-ka-swwad.onrender.com/api";
 
 const api = axios.create({ baseURL: BASE, headers: { "Content-Type": "application/json" } });
 
